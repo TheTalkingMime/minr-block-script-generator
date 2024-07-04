@@ -1,0 +1,2 @@
+f3i,x,y,z,cooldown,delay,north (-z),south (+z),east (+x),west (-x),above,below,custom,link,notes
+/setblock 8040 73 7983 minecraft:pearlescent_froglight[axis=y],8040,73,7983,5,5,a,,,,,,,https://paste.minr.org/vigaxobake.coffeescript,
